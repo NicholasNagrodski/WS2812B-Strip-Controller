@@ -1,0 +1,1 @@
+"./WS2812B_Strip.obj" "./main.obj" "./patterns.obj" "../lnk_msp430f2272.cmd" -l"libc.a" 
